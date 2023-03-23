@@ -3,6 +3,7 @@
   "name": "Text Extractor",
   "version": "1.0",
   "permissions": ["activeTab", "scripting"],
+  "description": "OpenSourced ChatGPT downloader in markdown format. Download all text or markdown-styled code blocks",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {}
