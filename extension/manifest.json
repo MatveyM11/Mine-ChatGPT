@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Text Extractor",
+  "name": "Mine ChatGPT",
   "version": "1.0",
   "permissions": ["activeTab", "scripting"],
   "description": "OpenSourced ChatGPT downloader in markdown format. Download all text or markdown-styled code blocks",
